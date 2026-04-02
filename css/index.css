@@ -1,0 +1,15 @@
+body{
+    background-color: #151937;
+    color: white;
+}
+.text-gradient{
+    background: linear-gradient(to right, #ffa7a9, #ff5ea3);
+    background-clip: text;
+    color: transparent;
+}
+.btn-gradient{
+    background: linear-gradient(to right, #ffa7a9, #ff5ea3); 
+    padding: 1rem 3rem;
+    border-radius: 25px;
+    cursor: pointer;
+}
